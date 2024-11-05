@@ -3,7 +3,7 @@
 - 👀 I’m interested in Biotechnology, Bioinformatics, Data Science, and Entrepreneurship. I'm fascinated by how technology and science can come together to solve real-world problems in healthcare and sustainability.
 - 🌱 I’m currently learning foundational Molecular Biology principles and techniques, along with advanced bioinformatics techniques, gene expression analysis, and data visualisation.
 - 💞️ I’m looking to collaborate on Research projects or innovative startups in biotechnology. I enjoy working with passionate individuals and teams who are dedicated to making a positive difference.
-- 📫 How to reach me: You can reach me via email at jaasim.nj@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/noorul-jaasim-n-9a7177292).
+- 📫 How to reach me: You can reach me via email at jaasim.nj@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/noorul-jaasim-n-9a7177292).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Apart from Science and Business, I enjoy Cinematography and have worked on a few short films. I believe storytelling through visuals is a powerful skill that also enhances my communication and presentation abilities in scientific work.
 
