@@ -9,6 +9,5 @@
 
 Thank you for stopping by! I’m always open to networking, collaboration, or just a friendly chat about biotech, science, or film. Feel free to explore my repositories and reach out!
 <!---
-Noorul-Jaasim/Noorul-Jaasim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Welcome to README ;)  
 --->
